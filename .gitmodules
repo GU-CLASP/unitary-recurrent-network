@@ -1,0 +1,3 @@
+[submodule "TypedFlow"]
+	path = TypedFlow
+	url = git@github.com:GU-CLASP/TypedFlow.git
